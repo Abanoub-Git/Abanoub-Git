@@ -207,7 +207,6 @@ my problem-solving and software engineering skills.
   </a>
 </p>
 
-<br/>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Open+to+Opportunities+%26+Collaborations;Let's+Build+Something+Great+Together+🚀"
