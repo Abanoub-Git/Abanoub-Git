@@ -3,134 +3,173 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,75:7c3aed,100:06b6d4&height=220&section=header&text=Abanoub%20Attia&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Front-End%20Developer%20%7C%20React%20Developer&descAlignY=58&descSize=20&descColor=cbd5e1"
-  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:312e81,70:7c3aed,100:06b6d4&height=230&section=header&text=Abanoub%20Attia&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Front-End%20Developer%20%7C%20React%20Developer&descAlignY=58&descSize=20&descColor=cbd5e1"
 />
 
 <br/>
 
-<h1>Hi 👋, I'm Abanoub Attia</h1>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;React+%7C+Next.js+%7C+JavaScript;Clean+UI+%7C+Reusable+Components+%7C+APIs;Currently+Learning+Node.js+%7C+Express.js+%7C+MongoDB"
+/>
 
-<h3>
-Front-End Developer | React Developer
-</h3>
+<br/>
 
 <p>
-Building modern, responsive, and user-focused web applications
-<br/>
-through personal, freelance, and real-world projects.
+  Building modern, responsive, and user-focused web applications
+  <br/>
+  through personal, freelance, and real-world projects.
 </p>
 
 <br/>
 
 <a href="https://abanoubportfolio.vercel.app/">
-  <img
-    src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Portfolio-7c3aed?style=for-the-badge"
-  />
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Portfolio-7c3aed?style=for-the-badge"/>
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/in/abanoub-attia-439456315/">
-  <img
-    src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
+<br/>
 <br/>
 
 ---
 
 <!-- ========================= ABOUT ========================= -->
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
+
+<br/>
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+I'm a <b>Front-End Developer specializing in React</b>, with hands-on experience
+building modern, responsive, and user-focused web applications.
 
-I'm a **Front-End Developer specializing in React**, with hands-on experience building modern, responsive, and user-focused web applications.
+<br/>
+<br/>
 
-I've worked across **personal, freelance, and real-world projects**, focusing on:
+I've worked across <b>personal, freelance, and real-world projects</b>,
+with a strong focus on:
 
-- 🎨 Clean and modern UI
-- 🧩 Reusable components
-- 🔌 API integration
-- 📱 Responsive design
-- ⚡ Performance-focused applications
-- 🛠️ Practical solutions to real business needs
+<br/>
+<br/>
 
-Currently expanding my **full-stack development skills** with Node.js, Express.js, and MongoDB while continuously improving my problem-solving and software engineering skills.
+🎨 Clean & Modern UI &nbsp;&nbsp; • &nbsp;&nbsp;
+🧩 Reusable Components &nbsp;&nbsp; • &nbsp;&nbsp;
+🔌 API Integration
 
-</td>
-</tr>
-</table>
+<br/>
+
+📱 Responsive Design &nbsp;&nbsp; • &nbsp;&nbsp;
+⚡ Performance &nbsp;&nbsp; • &nbsp;&nbsp;
+🛠️ Practical Business Solutions
+
+<br/>
+<br/>
+
+Currently expanding my <b>Full-Stack Development</b> skills with
+<b>Node.js, Express.js, and MongoDB</b> while continuously improving
+my problem-solving and software engineering skills.
 
 </div>
 
+<br/>
 <br/>
 
 ---
 
 <!-- ========================= TECH STACK ========================= -->
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<br/>
 
 <div align="center">
 
-### 🎨 Front-End
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,nextjs" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,nextjs&perline=7"/>
 
 <br/>
 <br/>
 
-### ⚙️ Back-End
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3"/>
 
 <br/>
 <br/>
 
-### 🔧 Tools & Technologies
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm&perline=5"/>
 
 </div>
 
+<br/>
+<br/>
+
+---
+
+<!-- ========================= CURRENT FOCUS ========================= -->
+
+<h2 align="center">🎯 Currently Focusing On</h2>
+
+<br/>
+
+<div align="center">
+
+<img
+  src="https://img.shields.io/badge/💻%20DEVELOPMENT-React%20%7C%20Next.js%20%7C%20Responsive%20UI-312e81?style=for-the-badge"
+/>
+
+&nbsp;
+
+<img
+  src="https://img.shields.io/badge/🚀%20IMPROVING-Architecture%20%7C%20Performance%20%7C%20Problem%20Solving-7c3aed?style=for-the-badge"
+/>
+
+&nbsp;
+
+<img
+  src="https://img.shields.io/badge/📚%20LEARNING-Node.js%20%7C%20Express.js%20%7C%20MongoDB-06b6d4?style=for-the-badge"
+/>
+
+<br/>
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=cbd5e1&center=true&vCenter=true&width=650&lines=Building+Better+React+Applications;Learning+Backend+Development;Improving+Software+Engineering+Skills;Turning+Ideas+Into+Real+Products"
+/>
+
+</div>
+
+<br/>
 <br/>
 
 ---
 
 <!-- ========================= GITHUB STATS ========================= -->
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Abanoub-Git&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&icon_color=06b6d4&text_color=c9d1d9"
-  height="180"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abanoub-Git&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9"
-  height="180"
-/>
-
-</div>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <br/>
 
 <div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Abanoub-Git&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=C9D1D9"
+  height="180"
+/>
+
+&nbsp;&nbsp;
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abanoub-Git&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"
+  height="180"
+/>
+
+<br/>
+<br/>
 
 <img
   src="https://streak-stats.demolab.com?user=Abanoub-Git&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6"
@@ -140,84 +179,76 @@ Currently expanding my **full-stack development skills** with Node.js, Express.j
 </div>
 
 <br/>
+<br/>
 
 ---
 
-<!-- ========================= ACTIVITY ========================= -->
+<!-- ========================= GITHUB ACTIVITY ========================= -->
 
-## 🚀 GitHub Activity
+<h2 align="center">⚡ GitHub Activity</h2>
+
+<br/>
 
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Abanoub-Git&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=06b6d4&area=true&hide_border=true"
-  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Abanoub-Git&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=06b6d4&area=true&hide_border=true&custom_title=Contribution%20Activity"
+  width="90%"
 />
 
 </div>
 
 <br/>
+<br/>
 
 ---
 
-<!-- ========================= CURRENT FOCUS ========================= -->
+<!-- ========================= WHAT I BUILD ========================= -->
 
-## 🎯 Currently Focusing On
+<h2 align="center">🚀 What I Build</h2>
+
+<br/>
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://img.shields.io/badge/⚛️%20React%20Applications-7c3aed?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🎨%20Modern%20UI-c026d3?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📱%20Responsive%20Design-06b6d4?style=for-the-badge"/>
 
-<td align="center" width="33%">
+<br/>
+<br/>
 
-### 💻 Development
+<img src="https://img.shields.io/badge/🔌%20REST%20APIs-312e81?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🧩%20Reusable%20Components-7c3aed?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⚡%20Performance-06b6d4?style=for-the-badge"/>
 
-React Applications  
-Responsive UI  
-REST APIs  
-Reusable Components
+<br/>
+<br/>
 
-</td>
-
-<td align="center" width="33%">
-
-### 🚀 Improving
-
-Clean Architecture  
-Performance  
-Problem Solving  
-Software Engineering
-
-</td>
-
-<td align="center" width="33%">
-
-### 📚 Learning
-
-Node.js  
-Express.js  
-MongoDB  
-Full-Stack Development
-
-</td>
-
-</tr>
-</table>
+<img src="https://img.shields.io/badge/🛒%20E--Commerce-312e81?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/💼%20Business%20Applications-7c3aed?style=for-the-badge"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🌐%20Web%20Applications-06b6d4?style=for-the-badge"/>
 
 </div>
 
+<br/>
 <br/>
 
 ---
 
 <!-- ========================= CONNECT ========================= -->
 
-## 🤝 Let's Connect
-
-<div align="center">
+<h2 align="center">🤝 Let's Connect</h2>
 
 <br/>
+
+<div align="center">
 
 <a href="https://abanoubportfolio.vercel.app/">
   <img
@@ -225,11 +256,15 @@ Full-Stack Development
   />
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/in/abanoub-attia-439456315/">
   <img
     src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
   />
 </a>
+
+&nbsp;
 
 <a href="mailto:bebohanna102@gmail.com">
   <img
@@ -240,10 +275,13 @@ Full-Stack Development
 <br/>
 <br/>
 
-### 💬 Open to opportunities, collaborations & interesting projects.
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Open+to+Opportunities+%26+Collaborations;Let's+Build+Something+Great+Together+🚀"
+/>
 
 </div>
 
+<br/>
 <br/>
 
 <!-- ========================= FOOTER ========================= -->
