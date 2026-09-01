@@ -12,30 +12,23 @@
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;React+%7C+Next.js+%7C+JavaScript;Clean+UI+%7C+Reusable+Components+%7C+APIs;Currently+Learning+Node.js+%7C+Express.js+%7C+MongoDB"
 />
 
-<br/>
-
 <p>
   Building modern, responsive, and user-focused web applications
   <br/>
   through personal, freelance, and real-world projects.
 </p>
 
-<br/>
-
-<a href="https://abanoubportfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Portfolio-7c3aed?style=for-the-badge"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/abanoub-attia-439456315/">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p>
+  <a href="https://abanoubportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Portfolio-7c3aed?style=for-the-badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abanoub-attia-439456315/">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 </div>
-
-<br/>
-<br/>
 
 ---
 
@@ -43,43 +36,41 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<br/>
-
 <div align="center">
 
+<p>
 I'm a <b>Front-End Developer specializing in React</b>, with hands-on experience
 building modern, responsive, and user-focused web applications.
+</p>
 
-<br/>
-<br/>
-
+<p>
 I've worked across <b>personal, freelance, and real-world projects</b>,
 with a strong focus on:
+</p>
 
-<br/>
-<br/>
-
-🎨 Clean & Modern UI &nbsp;&nbsp; • &nbsp;&nbsp;
-🧩 Reusable Components &nbsp;&nbsp; • &nbsp;&nbsp;
+<p>
+🎨 Clean & Modern UI
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🧩 Reusable Components
+&nbsp;&nbsp; • &nbsp;&nbsp;
 🔌 API Integration
+</p>
 
-<br/>
-
-📱 Responsive Design &nbsp;&nbsp; • &nbsp;&nbsp;
-⚡ Performance &nbsp;&nbsp; • &nbsp;&nbsp;
+<p>
+📱 Responsive Design
+&nbsp;&nbsp; • &nbsp;&nbsp;
+⚡ Performance
+&nbsp;&nbsp; • &nbsp;&nbsp;
 🛠️ Practical Business Solutions
+</p>
 
-<br/>
-<br/>
-
+<p>
 Currently expanding my <b>Full-Stack Development</b> skills with
 <b>Node.js, Express.js, and MongoDB</b> while continuously improving
 my problem-solving and software engineering skills.
+</p>
 
 </div>
-
-<br/>
-<br/>
 
 ---
 
@@ -87,26 +78,19 @@ my problem-solving and software engineering skills.
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<br/>
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,nextjs&perline=7"/>
 
 <br/>
-<br/>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3"/>
 
-<br/>
 <br/>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm&perline=5"/>
 
 </div>
-
-<br/>
-<br/>
 
 ---
 
@@ -114,27 +98,26 @@ my problem-solving and software engineering skills.
 
 <h2 align="center">🎯 Currently Focusing On</h2>
 
-<br/>
-
 <div align="center">
 
-<img
-  src="https://img.shields.io/badge/💻%20DEVELOPMENT-React%20%7C%20Next.js%20%7C%20Responsive%20UI-312e81?style=for-the-badge"
-/>
+<p>
+  <img
+    src="https://img.shields.io/badge/💻%20DEVELOPMENT-React%20%7C%20Next.js%20%7C%20Responsive%20UI-312e81?style=for-the-badge"
+  />
+</p>
 
-&nbsp;
+<p>
+  <img
+    src="https://img.shields.io/badge/🚀%20IMPROVING-Architecture%20%7C%20Performance%20%7C%20Problem%20Solving-7c3aed?style=for-the-badge"
+  />
+</p>
 
-<img
-  src="https://img.shields.io/badge/🚀%20IMPROVING-Architecture%20%7C%20Performance%20%7C%20Problem%20Solving-7c3aed?style=for-the-badge"
-/>
+<p>
+  <img
+    src="https://img.shields.io/badge/📚%20LEARNING-Node.js%20%7C%20Express.js%20%7C%20MongoDB-06b6d4?style=for-the-badge"
+  />
+</p>
 
-&nbsp;
-
-<img
-  src="https://img.shields.io/badge/📚%20LEARNING-Node.js%20%7C%20Express.js%20%7C%20MongoDB-06b6d4?style=for-the-badge"
-/>
-
-<br/>
 <br/>
 
 <img
@@ -143,33 +126,13 @@ my problem-solving and software engineering skills.
 
 </div>
 
-<br/>
-<br/>
-
 ---
 
-<!-- ========================= GITHUB STATS ========================= -->
+<!-- ========================= GITHUB ANALYTICS ========================= -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<br/>
-
 <div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Abanoub-Git&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=C9D1D9"
-  height="180"
-/>
-
-&nbsp;&nbsp;
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abanoub-Git&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"
-  height="180"
-/>
-
-<br/>
-<br/>
 
 <img
   src="https://streak-stats.demolab.com?user=Abanoub-Git&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=8B5CF6"
@@ -178,67 +141,39 @@ my problem-solving and software engineering skills.
 
 </div>
 
-<br/>
-<br/>
-
----
-
-<!-- ========================= GITHUB ACTIVITY ========================= -->
-
-<h2 align="center">⚡ GitHub Activity</h2>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Abanoub-Git&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=06b6d4&area=true&hide_border=true&custom_title=Contribution%20Activity"
-  width="90%"
-/>
-
-</div>
-
-<br/>
-<br/>
-
 ---
 
 <!-- ========================= WHAT I BUILD ========================= -->
 
 <h2 align="center">🚀 What I Build</h2>
 
-<br/>
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/⚛️%20React%20Applications-7c3aed?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🎨%20Modern%20UI-c026d3?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/📱%20Responsive%20Design-06b6d4?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/⚛️%20React%20Applications-7c3aed?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎨%20Modern%20UI-c026d3?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📱%20Responsive%20Design-06b6d4?style=for-the-badge"/>
+</p>
 
-<br/>
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/🔌%20REST%20APIs-312e81?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🧩%20Reusable%20Components-7c3aed?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/⚡%20Performance-06b6d4?style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/badge/🔌%20REST%20APIs-312e81?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🧩%20Reusable%20Components-7c3aed?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/⚡%20Performance-06b6d4?style=for-the-badge"/>
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/badge/🛒%20E--Commerce-312e81?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/💼%20Business%20Applications-7c3aed?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🌐%20Web%20Applications-06b6d4?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/🛒%20E--Commerce-312e81?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/💼%20Business%20Applications-7c3aed?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🌐%20Web%20Applications-06b6d4?style=for-the-badge"/>
+</p>
 
 </div>
-
-<br/>
-<br/>
 
 ---
 
@@ -246,33 +181,32 @@ my problem-solving and software engineering skills.
 
 <h2 align="center">🤝 Let's Connect</h2>
 
-<br/>
-
 <div align="center">
 
-<a href="https://abanoubportfolio.vercel.app/">
-  <img
-    src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
-  />
-</a>
+<p>
+  <a href="https://abanoubportfolio.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
+    />
+  </a>
 
-&nbsp;
+  &nbsp;
 
-<a href="https://www.linkedin.com/in/abanoub-attia-439456315/">
-  <img
-    src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
-</a>
+  <a href="https://www.linkedin.com/in/abanoub-attia-439456315/">
+    <img
+      src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
 
-&nbsp;
+  &nbsp;
 
-<a href="mailto:bebohanna102@gmail.com">
-  <img
-    src="https://img.shields.io/badge/✉️%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  />
-</a>
+  <a href="mailto:bebohanna102@gmail.com">
+    <img
+      src="https://img.shields.io/badge/✉️%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+</p>
 
-<br/>
 <br/>
 
 <img
@@ -281,8 +215,7 @@ my problem-solving and software engineering skills.
 
 </div>
 
-<br/>
-<br/>
+---
 
 <!-- ========================= FOOTER ========================= -->
 
