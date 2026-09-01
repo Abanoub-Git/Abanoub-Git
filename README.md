@@ -183,33 +183,29 @@ my problem-solving and software engineering skills.
 
 <div align="center">
 
-<p>
-  <a href="https://abanoubportfolio.vercel.app/">
-    <img
-      src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
-    />
-  </a>
+<a href="https://abanoubportfolio.vercel.app/">
+  <img
+    src="https://img.shields.io/badge/🌐%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
+  />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abanoub-attia-439456315/">
+  <img
+    src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:bebohanna102@gmail.com">
+  <img
+    src="https://img.shields.io/badge/✉️%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+  />
+</a>
 
-  &nbsp;
-
-  <a href="https://www.linkedin.com/in/abanoub-attia-439456315/">
-    <img
-      src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-
-  &nbsp;
-
-  <a href="mailto:bebohanna102@gmail.com">
-    <img
-      src="https://img.shields.io/badge/✉️%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
-</p>
-
+<br/>
+<br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Open+to+Opportunities+%26+Collaborations;Let's+Build+Something+Great+Together+🚀"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Open%20to%20Opportunities%20%26%20Collaborations;Let's%20Build%20Something%20Great%20Together"
 />
 
 </div>
