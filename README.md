@@ -1,4 +1,3 @@
-```html
 <!-- ========================= HERO ========================= -->
 
 <div align="center">
@@ -230,4 +229,3 @@ and reliable software solutions.
 />
 
 </div>
-```
