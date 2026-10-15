@@ -1,19 +1,20 @@
+```html
 <!-- ========================= HERO ========================= -->
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:312e81,70:7c3aed,100:06b6d4&height=230&section=header&text=Abanoub%20Attia&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Front-End%20Developer%20%7C%20React%20Developer&descAlignY=58&descSize=20&descColor=cbd5e1"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:312e81,70:7c3aed,100:06b6d4&height=230&section=header&text=Abanoub%20Attia&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20React.js%20-%20Node.js&descAlignY=58&descSize=20&descColor=cbd5e1"
 />
 
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Experiences;React+%7C+Next.js+%7C+JavaScript;Clean+UI+%7C+Reusable+Components+%7C+APIs;Currently+Learning+Node.js+%7C+Express.js+%7C+MongoDB"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Modern+Full-Stack+Applications;React.js+%7C+Node.js+%7C+Express.js;Secure+APIs+%7C+Caching+%7C+Performance;Clean+UI+%7C+Scalable+Backend+Systems"
 />
 
 <p>
-  Building modern, responsive, and user-focused web applications
+  Building modern, responsive, and secure web applications
   <br/>
   through personal, freelance, and real-world projects.
 </p>
@@ -39,8 +40,8 @@
 <div align="center">
 
 <p>
-I'm a <b>Front-End Developer specializing in React</b>, with hands-on experience
-building modern, responsive, and user-focused web applications.
+I'm a <b>Full-Stack Developer specializing in React.js and Node.js</b>,
+with hands-on experience building modern, responsive, and user-focused web applications.
 </p>
 
 <p>
@@ -53,21 +54,22 @@ with a strong focus on:
 &nbsp;&nbsp; • &nbsp;&nbsp;
 🧩 Reusable Components
 &nbsp;&nbsp; • &nbsp;&nbsp;
-🔌 API Integration
+🔌 REST API Development
 </p>
 
 <p>
-📱 Responsive Design
+🔐 Authentication & Security
 &nbsp;&nbsp; • &nbsp;&nbsp;
-⚡ Performance
+⚡ Performance Optimization
 &nbsp;&nbsp; • &nbsp;&nbsp;
-🛠️ Practical Business Solutions
+🗄️ Database Management
 </p>
 
 <p>
-Currently expanding my <b>Full-Stack Development</b> skills with
-<b>Node.js, Express.js, and MongoDB</b> while continuously improving
-my problem-solving and software engineering skills.
+I build responsive frontend experiences and secure backend systems,
+working with <b>password hashing, rate limiting, caching, file uploads,
+authentication, and API security</b>, while focusing on maintainable code
+and reliable software solutions.
 </p>
 
 </div>
@@ -84,7 +86,7 @@ my problem-solving and software engineering skills.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&perline=5"/>
 
 <br/>
 
@@ -96,32 +98,32 @@ my problem-solving and software engineering skills.
 
 <!-- ========================= CURRENT FOCUS ========================= -->
 
-<h2 align="center">🎯 Currently Focusing On</h2>
+<h2 align="center">🎯 Core Expertise</h2>
 
 <div align="center">
 
 <p>
   <img
-    src="https://img.shields.io/badge/💻%20DEVELOPMENT-React%20%7C%20Next.js%20%7C%20Responsive%20UI-312e81?style=for-the-badge"
+    src="https://img.shields.io/badge/💻%20FULL--STACK-React.js%20%7C%20Next.js%20%7C%20Node.js-312e81?style=for-the-badge"
   />
 </p>
 
 <p>
   <img
-    src="https://img.shields.io/badge/🚀%20IMPROVING-Architecture%20%7C%20Performance%20%7C%20Problem%20Solving-7c3aed?style=for-the-badge"
+    src="https://img.shields.io/badge/🔐%20BACKEND%20SECURITY-Authentication%20%7C%20Hashing%20%7C%20Rate%20Limiting-7c3aed?style=for-the-badge"
   />
 </p>
 
 <p>
   <img
-    src="https://img.shields.io/badge/📚%20LEARNING-Node.js%20%7C%20Express.js%20%7C%20MongoDB-06b6d4?style=for-the-badge"
+    src="https://img.shields.io/badge/⚡%20PERFORMANCE-Caching%20%7C%20Optimization%20%7C%20Scalability-06b6d4?style=for-the-badge"
   />
 </p>
 
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=cbd5e1&center=true&vCenter=true&width=650&lines=Building+Better+React+Applications;Learning+Backend+Development;Improving+Software+Engineering+Skills;Turning+Ideas+Into+Real+Products"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=cbd5e1&center=true&vCenter=true&width=650&lines=Building+Better+Full-Stack+Applications;Developing+Secure+REST+APIs;Optimizing+Backend+Performance;Turning+Ideas+Into+Real+Products"
 />
 
 </div>
@@ -160,17 +162,23 @@ my problem-solving and software engineering skills.
 <p>
   <img src="https://img.shields.io/badge/🔌%20REST%20APIs-312e81?style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🧩%20Reusable%20Components-7c3aed?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔐%20Authentication%20%26%20Security-7c3aed?style=for-the-badge"/>
   &nbsp;
   <img src="https://img.shields.io/badge/⚡%20Performance-06b6d4?style=for-the-badge"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/🛒%20E--Commerce-312e81?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🗄️%20Caching%20%26%20Rate%20Limiting-312e81?style=for-the-badge"/>
   &nbsp;
+  <img src="https://img.shields.io/badge/📁%20File%20Uploads-7c3aed?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🛒%20E--Commerce-06b6d4?style=for-the-badge"/>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/💼%20Business%20Applications-7c3aed?style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🌐%20Web%20Applications-06b6d4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐%20Full--Stack%20Web%20Applications-312e81?style=for-the-badge"/>
 </p>
 
 </div>
@@ -222,3 +230,4 @@ my problem-solving and software engineering skills.
 />
 
 </div>
+```
